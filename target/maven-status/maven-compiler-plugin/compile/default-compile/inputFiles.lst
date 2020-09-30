@@ -1,0 +1,10 @@
+/Users/nostromo/launch/java-spring-joins-and-associations/src/main/java/com/launchacademy/launchrpg/models/PlayerCharacter.java
+/Users/nostromo/launch/java-spring-joins-and-associations/src/main/java/com/launchacademy/launchrpg/seeders/DemoSeeder.java
+/Users/nostromo/launch/java-spring-joins-and-associations/src/main/java/com/launchacademy/launchrpg/repositories/PlayerCharacterRepository.java
+/Users/nostromo/launch/java-spring-joins-and-associations/src/main/java/com/launchacademy/launchrpg/repositories/SchoolRepository.java
+/Users/nostromo/launch/java-spring-joins-and-associations/src/main/java/com/launchacademy/launchrpg/models/Spell.java
+/Users/nostromo/launch/java-spring-joins-and-associations/src/main/java/com/launchacademy/launchrpg/models/Archetype.java
+/Users/nostromo/launch/java-spring-joins-and-associations/src/main/java/com/launchacademy/launchrpg/repositories/SpellRepository.java
+/Users/nostromo/launch/java-spring-joins-and-associations/src/main/java/com/launchacademy/launchrpg/models/School.java
+/Users/nostromo/launch/java-spring-joins-and-associations/src/main/java/com/launchacademy/launchrpg/repositories/ArchetypeRepository.java
+/Users/nostromo/launch/java-spring-joins-and-associations/src/main/java/com/launchacademy/launchrpg/DemoApplication.java
